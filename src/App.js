@@ -30,6 +30,7 @@ export default function App() {
   return (
     <div className="App">
       <h1 className="bismillah">&#xFDFD;</h1> {/* Bismillah in Arabic */}
+      <h1 className="bismillah"> As salamu alai Kum Ayesha/Aishwarya</h1>
       <button onClick={getHadith} className="get-hadith-button">
         Get a Hadith!
       </button>
